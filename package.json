@@ -1,0 +1,22 @@
+{
+  "name": "rabbitmq-study",
+  "version": "1.0.0",
+  "description": "rabbitmq-study",
+  "main": "consumer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgxpuisb/rabbitmq-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tgxpuisb/rabbitmq-study/issues"
+  },
+  "homepage": "https://github.com/tgxpuisb/rabbitmq-study#readme",
+  "dependencies": {
+    "amqplib": "^0.5.2"
+  }
+}
